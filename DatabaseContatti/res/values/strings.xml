@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Rubrica contatti</string>
+    <string name="action_settings">Settaggi</string>
+    <string name="hello_world">Gestisci contatti</string>
+
+</resources>
